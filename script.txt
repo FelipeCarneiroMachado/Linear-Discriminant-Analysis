@@ -1,0 +1,21 @@
+Parte 1:
+    Apresentacao
+        Nomes, etc
+        Nome do trabalho
+        Oq eh: modelo de reducao de dimensionalidade e classficacao linear
+        Diferentemente do PCA, eh supervisionado e focado em classificacao, busca maximizar distancia entre medias
+        e minimizar variancia dentro das classes
+        Oq vamos fazer: 
+            1. Caso especifico: 2 classes, 2 dimensoes projetadas em um vetor
+            2. Caso geral: projecao de C classes D dimensionais em L dimensoes
+Parte 2:
+    Caso 1: seguir notebook
+    MAximizacao de diferenca, minimizacao da variancia (clusters apertados)
+    Manipulacao da razao para obter notacao matricial
+    Derivada para maximizar
+    Mostrar o resultado, (Discriminante Linear de Fischer)
+    Exemplo, dataset artificial
+    Mostrar a diferenca LDA x PCA, fala que o nosso eh mto melhor
+    Explicar como classificar com isso, mostra a precisao
+Parte 3:
+    Caso geral, eu faco
